@@ -1,0 +1,10 @@
+Package: LXnetphar
+Type: Package
+Title: LXnetphar
+Version: 2022.01
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: The network pharmacology.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
