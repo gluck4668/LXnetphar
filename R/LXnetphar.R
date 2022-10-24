@@ -22,6 +22,8 @@ netphar <- function(name,website){
 
   #--------------------
 
+  R_packs <- c("rvest","stringr","jsonlite","httr", "magrittr","dplyr","openxlsx")
+
   for(i in R_packs){
     library(i, character.only = T)
   }
